@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Portfolio for hadit corporation. First dive into web development for a presentation card for the company.
